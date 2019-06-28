@@ -3,7 +3,7 @@
 
 ## 质监设备验收流程  
 
-### 一、[接地基础停检点](https://one.popexp.com/shebei/基础接地停检点.md)
+### 一、[接地基础停检点](https://one.popexp.com/shebei/jcjd.md)
 
 
 
