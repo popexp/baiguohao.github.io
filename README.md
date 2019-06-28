@@ -1,4 +1,3 @@
-#### baiguohao.github.io    
 
 
 ## 质监设备验收流程  
